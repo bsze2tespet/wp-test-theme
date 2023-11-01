@@ -20,7 +20,7 @@ Template Name: Contact Us
 
         <div class="col-lg-6">
 
-            This is ehre the contact info goes
+            This is where the contact info goes
 
         </div>
     </div>
