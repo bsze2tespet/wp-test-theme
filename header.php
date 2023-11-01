@@ -10,13 +10,15 @@
 </head>
 <body>
 
-
+    
 <header>
-    <?php 
-    wp_nav_menu(
-        array(
-            'theme_location' => 'main-menu',
-        ));
+    <div class="container">    
+            <?php 
+            wp_nav_menu(
+                array(
+                    'theme_location' => 'main-menu',
+                ));
 
-    ?>
+            ?>
+    </div>    
 </header>
